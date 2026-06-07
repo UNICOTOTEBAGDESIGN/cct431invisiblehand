@@ -1,0 +1,6 @@
+{
+  "name": "Invisible Hands Zine",
+  "description": "An interactive 8-page digital zine exploring AI and labor, titled 'INVISIBLE HANDS - Who Really Runs the Machine?'",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
